@@ -30,9 +30,8 @@ Run this command from the project root:
 
 ```bash
 python Python_Code/project.py
+```
 
-
-
-Project Team
+## Project Team
 - Shyam Sitapara
 - Dhruv Vora
